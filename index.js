@@ -6,6 +6,10 @@ app.prototype.write = function(options) {
 	console.log(options.text);
 };
 
+app.prototype.meet = function() {
+	console.log(obj);
+}
+
 app.prototype.read = function () {
 	console.log(options.url);
 };
