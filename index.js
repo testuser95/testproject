@@ -9,3 +9,7 @@ app.prototype.write = function(options) {
 app.prototype.read = function () {
 	console.log(options.url);
 };
+
+app.prototype.hide = function () {
+	console.log(options.hide);
+}
