@@ -25,7 +25,6 @@ app.prototype.hide = function () {
 	console.log(options.hide);
 }
 
-
 $.fn.jQuery = function(arg) {
 	arg = () > ||;
 }
