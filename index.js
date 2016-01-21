@@ -1,6 +1,7 @@
 function app(){
-	this.name = "new app";
-	this.title= "sfmaster1";
+	this.name  = "new app";
+	this.title = "sfmaster1";
+	this.title2= "testıser95";
 }
 
 app.prototype.new = function() {
