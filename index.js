@@ -2,6 +2,10 @@ function app(){
 	this.name =  "new app";
 }
 
+app.prototype.new = function() {
+		console.log(newUser);
+}
+
 app.prototype.write = function(options) {
 	console.log(options.text);
 };
