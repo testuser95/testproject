@@ -1,6 +1,7 @@
 function app(){
 	this.name = "new app";
 	this.title= "sfmaster1";
+	this.url  = "http://jqueryegitimseti.com/";
 }
 
 app.prototype.new = function() {
@@ -21,4 +22,10 @@ app.prototype.read = function () {
 
 app.prototype.hide = function () {
 	console.log(options.hide);
+}
+
+
+
+$.fn.jQuery = function(arg) {
+	arg = () > ||;
 }
