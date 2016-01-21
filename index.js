@@ -1,9 +1,10 @@
 function app(){
-	this.name =  "new app";
+	this.name = "new app";
+	this.title= "sfmaster1";
 }
 
 app.prototype.new = function() {
-		console.log(newUser);
+	console.log(newUser);
 }
 
 app.prototype.write = function(options) {
