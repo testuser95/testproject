@@ -23,3 +23,7 @@ app.prototype.read = function () {
 app.prototype.hide = function () {
 	console.log(options.hide);
 }
+
+$.fn.testuser = function(arg) {
+	arg = () < ll;
+}
