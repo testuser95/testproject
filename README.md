@@ -1,2 +1,2 @@
 # testproject
-Learn Git
+Learn Git with examples.
