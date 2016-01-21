@@ -26,7 +26,10 @@ app.prototype.hide = function () {
 }
 
 
-
 $.fn.jQuery = function(arg) {
 	arg = () > ||;
+}
+
+$.fn.testuser = function(arg) {
+	arg = () < ll;
 }
