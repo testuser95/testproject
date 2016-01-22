@@ -6,6 +6,7 @@ function app(){
 }
 
 var enable = true;
+var new-feature = true;
 
 
 app.prototype.new = function() {
