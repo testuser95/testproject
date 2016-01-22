@@ -10,6 +10,7 @@ var new-feature = true;
 var deleted-feature = true;
 
 var app = app();
+a = new app();
 
 
 app.prototype.new = function() {
