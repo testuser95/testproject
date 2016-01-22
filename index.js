@@ -7,7 +7,7 @@ function app(){
 
 var enable = true;
 var new-feature = true;
-
+var deleted-feature = false;
 
 app.prototype.new = function() {
 	console.log(newUser);
