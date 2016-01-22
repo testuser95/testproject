@@ -5,6 +5,9 @@ function app(){
 	this.title2= "testiser95";
 }
 
+var enable = true;
+
+
 app.prototype.new = function() {
 	console.log(newUser);
 }
