@@ -2,7 +2,7 @@ function app(){
 	this.name = "new app";
 	this.title= "sfmaster1";
 	this.url  = "http://jqueryegitimseti.com/";
-	this.title2= "testıser95";
+	this.title2= "testiser95";
 }
 
 app.prototype.new = function() {
